@@ -1,0 +1,6 @@
+ # Boolean Variables
+teacher = True
+isOver65 = False
+hasMedical = False
+
+vaccineApproved = teacher and isOver65 and hasMedical
